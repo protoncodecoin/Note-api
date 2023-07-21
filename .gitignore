@@ -4,3 +4,4 @@ note_env
 .env
 env
 test_db.db
+./.env
